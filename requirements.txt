@@ -1,6 +1,6 @@
-flask
-opencv-python
-ultralytics
 streamlit
+flask
+opencv-python-headless
+ultralytics
 numpy
 pillow
